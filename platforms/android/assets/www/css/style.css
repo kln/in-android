@@ -1,0 +1,12 @@
+/* Empty. Add your own CSS if you like */
+.item-click {
+	text-decoration: none;
+}
+
+p {
+	white-space: nowrap;
+}
+
+p.title {
+	font-weight: bold;
+}
